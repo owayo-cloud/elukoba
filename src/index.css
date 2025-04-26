@@ -31,6 +31,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   font-family: "Comic Neue", cursive;
+  @apply bg-neutral-900 text-neutral-300 p-0 m-0
 }
 
 h1 {
