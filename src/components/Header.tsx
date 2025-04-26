@@ -167,3 +167,5 @@ const Header: React.FC = () => {
 }
 
 export default Header
+
+// Note: Minute:1.20:42
